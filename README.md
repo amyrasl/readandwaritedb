@@ -17,8 +17,9 @@ Pada page register, user dapat mendaftarkan diri di halaman ini. User perlu mema
 
 ### 4.	Home
  ![image](https://github.com/amyrasl/readandwaritedb/assets/65806232/84a35fd8-eb49-4fd4-82a4-f9e59e2d8e9d)
+ ![image](https://github.com/amyrasl/readandwaritedb/assets/65806232/3146ca9e-bbaf-4753-81ef-50fc84d4f85b)
 Tampilan homepage pada role member. user dapat melihat product yang dijual dan tersedia. Ketika user memencet tombol home pada page welcome atau menekan search tanpa mencari barang yang spesifik, akan menampilkan seluruh data. Jika data yang dicari tidak ada, maka akan menampilkan page bahwa tidak ada keyword.
- 
+ ![image](https://github.com/amyrasl/readandwaritedb/assets/65806232/92676d0a-9335-4dec-9d67-c3794607dbe4)
 Tampilan homepage pada role Admin. Terdapat 3 button untuk admin: Add new stationery untuk menambah produk, Add new stationery type untuk menambah tipe produk, dan edit stationery type untuk menyunting tipe produk.
 
 ### 5.	View Product
@@ -43,7 +44,6 @@ Di halaman update product type pada role admin, admin dapat mengubah nama dan me
 ### 9.	Add Stationery Type
  ![image](https://github.com/amyrasl/readandwaritedb/assets/65806232/707cf5f0-1bc0-41ca-9c73-bb18f0b72904)
 Di page ini admin dapat menambahkan type dari product-productnya. Input wajib diisi.
-
 
 ### 10.	Transaction History
  ![image](https://github.com/amyrasl/readandwaritedb/assets/65806232/87e39599-7789-4ce9-8089-1bd2e4d16acd)
